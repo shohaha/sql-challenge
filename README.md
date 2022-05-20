@@ -26,7 +26,7 @@ Inspect the CSVs and sketch out an ERD of the tables.
 
 * Import each CSV file into the corresponding SQL table. 
 
-  > **Hint:** To avoid errors, be sure to import the data in the same order that the tables were created. Also remember to account for the headers when importing.
+  > To avoid errors, be sure to import the data in the same order that the tables were created. Also account for the headers when importing.
 
 #### Data Analysis
 
